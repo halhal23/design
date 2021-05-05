@@ -1,0 +1,11 @@
+version: "3.3"
+services:
+  front:
+    build: .
+    volumes:
+      - ./front:/front
+    working_dir: /front
+    command: yarn start 
+    tty: true
+    ports: 
+      - 3000:3000
