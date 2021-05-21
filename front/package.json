@@ -19,6 +19,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.23.2",
+    "gsap": "^3.6.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-parallax-tilt": "^1.5.11",
